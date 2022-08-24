@@ -1,0 +1,9 @@
+.form-container {
+  display: flex;
+  place-items: center;
+  flex-direction: column;
+}
+
+.form-input {
+  margin-bottom: 20px;
+}
